@@ -4,8 +4,6 @@
 
 SakuKu adalah prototipe aplikasi keuangan pribadi bergaya mobile yang dirancang untuk membantu pelajar dan profesional muda **mencatat pemasukan**, **mengelola pengeluaran**, dan **mencapai target tabungan** — semua dalam satu aplikasi yang bersih dan sederhana. 🌱
 
-Desain awal dibuat di Figma dan tersedia di:
-🔗 https://www.figma.com/design/4NMmowAg4y9iSVzvMWIAOW/SakuKu-Personal-Finance-App
 
 ---
 
