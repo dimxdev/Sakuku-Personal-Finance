@@ -70,5 +70,4 @@ Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Interaksi Manusi
 
 ---
 
-<p align="center">Dibuat dengan 💚 untuk mengelola uang jadi lebih mudah dan menyenangkan.</p>
 
