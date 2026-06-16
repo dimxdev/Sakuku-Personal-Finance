@@ -68,6 +68,6 @@ Proyek ini dikembangkan sebagai bagian dari tugas mata kuliah **Interaksi Manusi
 | Nabila | [@nabilaasn](https://github.com/nabilaasn) |
 | Safril | [@fril08](https://github.com/fril08) |
 
----
+
 
 
