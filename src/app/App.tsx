@@ -102,13 +102,13 @@ export default function App() {
   return (
     <I18nProvider>
       <StoreProvider>
-        <div className="flex min-h-full w-full items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 p-0 sm:p-6">
-          {/* Phone frame */}
+        <div className="flex h-full w-full items-center justify-center bg-background sm:bg-gradient-to-br sm:from-gray-100 sm:to-gray-200 sm:p-6">
+          {/* Phone frame — on desktop shows as device mockup, on mobile fills the screen */}
           <div
-            className="relative h-full max-h-[900px] w-full overflow-hidden bg-background text-foreground shadow-2xl sm:h-[860px] sm:w-[400px] sm:rounded-[2.75rem] sm:border-8 sm:border-gray-900"
+            className="relative h-full w-full overflow-hidden bg-background text-foreground sm:h-[860px] sm:w-[400px] sm:rounded-[2.75rem] sm:border-8 sm:border-gray-900 sm:shadow-2xl"
             style={{ transform: "translateZ(0)" }}
           >
-            {/* Notch */}
+            {/* Notch — desktop only */}
             <div className="absolute left-1/2 top-0 z-50 hidden h-6 w-36 -translate-x-1/2 rounded-b-2xl bg-gray-900 sm:block" />
             <PhoneApp />
             <Toaster position="top-center" richColors />
